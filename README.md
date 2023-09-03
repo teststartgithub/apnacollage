@@ -1,3 +1,4 @@
 # apnacollage
 my first repo
-author _sujata chaugule
+author _sujata all data added
+
